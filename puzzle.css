@@ -33,6 +33,7 @@
         .tile{
             font-size: 5rem;
             text-align: center;
+            background-repeat: no-repeat;
         }
 
         .result{
@@ -63,7 +64,7 @@
             }
             .puzzle{
                 height: 40%;
-                width: 75%;
+                width: 80%;
             }
             .result{
                 font-size: 1.2rem;
