@@ -64,11 +64,11 @@
             }
             .puzzle{
                 height: 40%;
-                width: 85%;
+                width: 80%;
             }
-            tile{
-                height: 100px;
-                width: 100px;
+            .tile{
+                height: 100%;
+                width: 100%;
             }
             .result{
                 font-size: 1.2rem;
